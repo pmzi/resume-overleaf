@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%
 % This is resume.cls (v1.0.0, 9 June 2023) written by
-% Hossein Moradi (moradidavijani@gmail.com).
+% Pouya Mozaffar Magham (pouya.mozafar@gmail.com).
 %%%%%%%%%%%%%%%%
 
 \NeedsTeXFormat{LaTeX2e}[1995/12/01]
